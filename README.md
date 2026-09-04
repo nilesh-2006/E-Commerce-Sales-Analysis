@@ -1,4 +1,4 @@
-# 🛒 Unlocking Business Insights with Superstore Sales Analytics
+# 🛒 Business Insights with Superstore Sales Analytics
 
 Welcome to a project where **business meets data**. This repository is an end-to-end analytics solution designed to analyze sales, profit, customers, products, and regional performance — answering important business questions:
 
@@ -40,27 +40,6 @@ Using data cleaning, exploratory data analysis, SQL queries, and interactive das
 ✔ Analyzed the relationship between **discounts and profitability**
 
 ---
-
-## 🖥 Power BI Dashboard Preview
-
-The Power BI dashboard provides an interactive view of business performance through:
-
-* 💰 Total Sales
-* 📈 Total Profit
-* 📦 Total Orders
-* 👥 Total Customers
-* 🔢 Total Quantity
-* 📊 Profit Margin
-* Sales by Category
-* Profit by Category
-* Sales by Region
-* Monthly Sales Trends
-* Top Products
-* Top Customers
-
-### Dashboard Preview
-
-Add your dashboard screenshot here:
 
 ## 🖥 Power BI Dashboard Preview
 
