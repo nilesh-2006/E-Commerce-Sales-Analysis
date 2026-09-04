@@ -35,10 +35,15 @@ Using data cleaning, exploratory data analysis, SQL queries, and interactive das
 ## 📊 Sneak Peek into Business Insights
 
 ✔ Analyzed overall **sales and profit performance** across different business dimensions
+
 ✔ Identified **top-performing categories, sub-categories, products, and customers**
+
 ✔ Analyzed **regional and state-level sales and profitability**
+
 ✔ Studied **monthly and yearly sales trends**
+
 ✔ Identified cases where **high sales do not necessarily result in high profit**
+
 ✔ Analyzed the relationship between **discounts and profitability**
 
 ---
