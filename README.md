@@ -3,7 +3,9 @@
 Welcome to a project where **business meets data**. This repository is an end-to-end analytics solution designed to analyze sales, profit, customers, products, and regional performance — answering important business questions:
 
 > 💭 Which categories and products generate the most sales?
+
 > 💭 Which products and regions are most profitable?
+
 > 💭 How do discounts impact overall profitability?
 
 ---
