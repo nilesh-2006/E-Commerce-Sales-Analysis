@@ -70,9 +70,10 @@ Built with business users in mind — making it easy to explore sales performanc
 **Nilesh Pardhi**
 
 🎓 B.Tech — Artificial Intelligence & Machine Learning
+
 🧠 Python • SQL • MySQL • Power BI • Data Analysis • Data Visualization
 
-🔗 GitHub | LinkedIn
+🔗 LinkedIn : https://www.linkedin.com/in/nilesh-pardhi/
 
 ---
 
